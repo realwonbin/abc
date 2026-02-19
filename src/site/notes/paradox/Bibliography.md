@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paradox/bibliography/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/paradox/bibliography/"}
 ---
 
 # Bibliography
