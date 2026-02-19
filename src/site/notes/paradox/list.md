@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paradox/list/"}
+{"dg-publish":true,"permalink":"/paradox/list/","tags":["gardenEntry"]}
 ---
 
 
@@ -20,3 +20,6 @@
 |논리학/형이상학|Stochastic Paradoxical Logic<br><br>  <br><br>(Preprints, 2025)|역설이 논리적 실패가 아니라, 현실이 자립하기 위한 기초적 메커니즘임을 수학적/논리적으로 제안.|역설의 존재론적 정당성 확보를 위한 최신 논거|
 |비평/예술이론|사진적 타자: 갈망의 카텍시스 속의 역설<br><br>  <br><br>(Alex C. Bradley, 2018)|해결되지 않는 모순(역설)이 오히려 관객에게 강력한 정서적 영향(Affect)과 의미를 창출하는 과정을 고찰.|'환기'의 메커니즘을 심리학적으로 뒷받침|
 |조직/사회학|Toward A Theory of Paradox<br><br>  <br><br>(Smith & Lewis, 2011)|대립하는 요소들이 동시에 공존할 때 발생하는 **역동적 균형(Dynamic Equilibrium)**이 지속 가능성의 핵심임을 논증.|역설을 통한 '발전적 방향'의 시스템적 모델링|
+
+#paradox #list #reference
+
